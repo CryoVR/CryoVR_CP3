@@ -1,0 +1,10 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"E:\CryoVRPro\CryoVR\CryoVR_CP3\Plugins\Output19\Intermediate\Build\Win64\UE4\Development\VictoryBPLibrary\PCH.VictoryBPLibrary.h.obj"
+"E:\CryoVRPro\CryoVR\CryoVR_CP3\Plugins\Output19\Intermediate\Build\Win64\UE4\Development\VictoryBPLibrary\Module.VictoryBPLibrary.cpp.obj"
+"E:\CryoVRPro\CryoVR\CryoVR_CP3\Plugins\Output19\Intermediate\Build\Win64\UE4\Development\VictoryBPLibrary\Module.VictoryBPLibrary.gen.1_of_2.cpp.obj"
+"E:\CryoVRPro\CryoVR\CryoVR_CP3\Plugins\Output19\Intermediate\Build\Win64\UE4\Development\VictoryBPLibrary\Module.VictoryBPLibrary.gen.2_of_2.cpp.obj"
+"E:\CryoVRPro\CryoVR\CryoVR_CP3\Intermediate\Build\Win64\UE4\Development\VictoryBPLibrary\PCLaunch.rc.res"
+/OUT:"E:\CryoVRPro\CryoVR\CryoVR_CP3\Plugins\Output19\Binaries\Win64\UE4-VictoryBPLibrary.lib"
